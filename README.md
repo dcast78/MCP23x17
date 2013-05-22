@@ -15,7 +15,7 @@ to run program:
 
 ./piface /dev/spi0.0
 
-For italian tutorial:
+For an italian tutorial:
 
 http://raspibo.v2.cs.unibo.it/wiki/index.php/GPIO_aggiuntivi_MCP23x17
 
@@ -27,3 +27,6 @@ and Micrchip datasheet
 
 http://ww1.microchip.com/downloads/en/devicedoc/21952b.pdf
 
+Relized with my friends:
+
+Roberto, Aldus in Raspibo events
