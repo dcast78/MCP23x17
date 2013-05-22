@@ -5,7 +5,7 @@ Piface related code.
 
 ---------------------------
 
-This is a collection of scripts used with Piface board.
+This is a collection of scripts used with Piface board, they work also with MCP23S17 chips/circuits.
 
 To compile source file (example):
 
