@@ -1,11 +1,13 @@
-Piface
+MCP23x17
 ======
 
-Piface related code.
+MCP23x17 code repository for Raspberry Pi.
 
 ---------------------------
 
-This is a collection of scripts used with Piface board, they work also with MCP23S17 chips/circuits.
+This is a collection of scripts used with MCP23x17 chips/circuits.
+
+The files related to piface also work with Piface board.
 
 To compile source file (example):
 
@@ -26,6 +28,10 @@ https://gist.github.com/ChickenProp/3183960
 and Micrchip datasheet
 
 http://ww1.microchip.com/downloads/en/devicedoc/21952b.pdf
+
+and Piface board
+
+http://www.element14.com/community/docs/DOC-52857/l/piface-digital-for-raspberry-pi
 
 Relized with my friends:
 
