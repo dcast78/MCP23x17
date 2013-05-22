@@ -1,6 +1,9 @@
 /****************************************
  * basic SPI demo for mcp23s17
  *
+ * This code send an SMS message with gammu when a interrupt is fire on pin of PORTB (input)
+ * please set the telephone number in numero_telefonico variable and messages to send on event fire.
+ * 
  *****************************************/
 #include <stdlib.h>
 #include <stdio.h>
