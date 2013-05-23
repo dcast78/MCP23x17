@@ -35,4 +35,4 @@ http://www.element14.com/community/docs/DOC-52857/l/piface-digital-for-raspberry
 
 Relized with my friends:
 
-Roberto, Aldus in Raspibo events
+Roberto, Alduss in Raspibo events
